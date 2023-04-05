@@ -10,9 +10,13 @@ https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-
 Directly download the following files:
 
 98-401-X2021001_English_CSV_data.CSV
+
 98-401-X2021001_English_meta.txt
+
 98-401-X2021001_Geo_starting_row.CSV
+
 README_meta.txt
+
 Clone or download the repository and open the DataExplorationN.sql file in a MSSQL environment.
 
 The DataExplorationN.sql file contains all related queries to manipulate and explore the downloaded data files.
